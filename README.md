@@ -133,4 +133,21 @@ No credentials specified
 Cloning the remote Git repository
 Cloning repository https://github.com/pythonlhugithub/simplilearn-githubd.git
  
- </td></tr></table>
+ </td></tr>
+ <tr><td>
+  two agents run at the same time
+  
+  Started by user david lizhong huang
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\buildagentjob
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (local agent to test)
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\buildagentjob@2
+[Pipeline] {
+[Pipeline] echo
+local agent is running
+  </td></tr>
+</table>
