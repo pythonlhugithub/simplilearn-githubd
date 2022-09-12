@@ -151,3 +151,9 @@ Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\buildagentjob@2
 local agent is running
   </td></tr>
 </table>
+
+10, now we create a Jenkinsfile in source code and copy scripts we built into this file, commit it.
+
+11, create a new pipeline called "devOps" pipeline, select ...SCM, put git URL in, jenkinsfile is picked up auto.
+
+12, build job , it works.
