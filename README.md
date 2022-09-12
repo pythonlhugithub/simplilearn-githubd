@@ -117,3 +117,20 @@ Finished: SUCCESS
 9.3 change agent any to agent 'windownode' in pipeline script
 
 9.4 click build now to check  the stages view, it is successful
+
+<table><tr><td>
+ Started by user david lizhong huang
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\buildagentjob
+[Pipeline] { (hide)
+[Pipeline] stage
+[Pipeline] { (check-out)
+[Pipeline] git
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/pythonlhugithub/simplilearn-githubd.git
+ 
+ </td></tr></table>
