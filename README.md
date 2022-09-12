@@ -107,3 +107,13 @@ success
 [Pipeline] End of Pipeline
 Finished: SUCCESS
 </td></tr></table>
+
+9, Use Agent
+
+9.1 label BUild-In Node as "windownode"
+
+9.2 create a new item called agentjob and select "pipeline"
+
+9.3 change agent any to agent 'windownode' in pipeline script
+
+9.4 click build now to check  the stages view, it is successful
